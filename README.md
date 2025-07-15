@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Zra Company](https://zraxd.github.io/zrcompany/)
 
-- 👨‍💻 All of my projects are available at [https://zraxd.github.io/](https://zraxd.github.io/)
+- 👨‍💻 All of my projects are available at [zravanilla.github.io](https://zravanilla.github.io/)
 
 - 📫 How to reach me **izra1009@gmail.com**
 
