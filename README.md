@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Izra Rakhi Muhammad [ZraVanilla]</h1>
 <h2 align="center">A frontend developer from Indonesia</h2>
 
-- 🔭 I’m currently working on [Zra Company](https://zraxd.github.io/zrcompany/)
-
 - 👨‍💻 All of my projects are available at [zravanilla.github.io](https://zravanilla.github.io/)
 
 - 📫 How to reach me **izra1009@gmail.com**
