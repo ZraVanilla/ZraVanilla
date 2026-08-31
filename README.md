@@ -28,7 +28,7 @@ const zravanilla = {
   role: "Frontend Developer",
   education: {
     SMK: "SMKN 2 Pekanbaru",
-    University: "Politeknik Negeri Padang"
+    University: "Politeknik Negeri Padang",
     major: "Teknik Rekayasa Perangkat Lunak"
   },
   passions: ["Web Dev", "UI/UX", "Open Source"],
