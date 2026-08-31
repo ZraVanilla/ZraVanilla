@@ -1,148 +1,271 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Izra+Rakhi+Muhammad;ZraVanilla+%F0%9F%8D%A6;Frontend+Developer+%7C+Indonesia" alt="Typing SVG" />
+
+# IZRA RAKHI MUHAMMAD
+
+### Graphic Designer & Web Developer
+
+Indonesia · Pekanbaru
+
+<br>
+
+[Portfolio](https://zravanilla.xyz/) ·
+[Instagram](https://instagram.com/zraa.img) ·
+[GitHub](https://github.com/ZraVanilla) ·
+[Email](mailto:izra1009@gmail.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ZraVanilla&label=PROFILE+VIEWS&color=111111&style=flat-square" />
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZraVanilla&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-</div>
+<br>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## ABOUT
 
-<br />
-
-# 💫 About Me
-
-<table align="center">
-<tr>
-<td>
-
-```javascript
-const zravanilla = {
+```js
+const zra = {
   name: "Izra Rakhi Muhammad",
-  aka: "ZraVanilla 🍦",
-  location: "Indonesia, Riau, Pekanbaru",
-  role: "Frontend Developer",
-  education: {
-    SMK: "SMKN 2 Pekanbaru",
-    University: "Politeknik Negeri Padang",
-    major: "Teknik Rekayasa Perangkat Lunak"
-  },
-  passions: ["Web Dev", "UI/UX", "Open Source"],
-  funFact: "I Like Coffee ☕",
-  contact: "izra1009@gmail.com"
+  alias: "ZraVanilla",
+  basedIn: "Pekanbaru, Indonesia",
+
+  focus: [
+    "Web Development",
+    "Graphic Design",
+    "UI/UX Design",
+    "Creative Development"
+  ],
+
+  currentlyExploring: [
+    "Interactive Web",
+    "Creative Coding",
+    "IoT",
+    "Artificial Intelligence"
+  ]
 };
 ```
 
+I design visual experiences and build digital products.
+
+My work sits between **design and development** — from brand identities,
+posters and interfaces to responsive websites and interactive experiences.
+
+I enjoy turning ideas into things that are both **visually expressive**
+and **actually usable**.
+
+<br>
+
+---
+
+## SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Web Sekolah
+
+Modern school website with a responsive design system,
+CMS integration and structured information architecture.
+
+**Web Development · UI/UX**
+
 </td>
-<td>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+
+<td width="50%" valign="top">
+
+### PPLG Class
+
+Digital platform and visual identity for a software
+engineering class community.
+
+**Branding · Web Development**
+
+<a href="https://pplgclass.github.io/">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Zra Store
+
+Experimental digital storefront exploring interface,
+motion and modern web interactions.
+
+**Creative Development · UI Design**
+
+<a href="https://zrastore.xyz/">View Project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### More Projects
+
+A collection of websites, experiments, design work
+and things I build while learning.
+
+<a href="https://zravanilla.xyz/">Explore Portfolio →</a>
+
 </td>
 </tr>
 </table>
 
-<br />
+<br>
 
-# 🛠️ Tech Stack
+---
+
+## WHAT I DO
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 01
+**Web Development**
+
+Responsive websites and web applications with modern technologies.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 02
+**UI / UX Design**
+
+Interfaces focused on clarity, usability and visual personality.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 03
+**Graphic Design**
+
+Posters, visual identities, typography and digital artwork.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 04
+**Creative Tech**
+
+Experiments involving IoT, AI and interactive digital experiences.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## TOOLS & STACK
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Development
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,nodejs,php,python&theme=dark" />
+
+<br><br>
+
+### Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,nginx,gcp,git&theme=dark" />
+
+<br><br>
 
 ### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript&theme=dark" />
+
+<br><br>
+
+### Design & Creative
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,unity&theme=dark" />
 
 </div>
 
-<br />
+<br>
 
-# 📊 GitHub Stats
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZraVanilla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZraVanilla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZraVanilla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZraVanilla&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-# 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZraVanilla&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<br />
-
-# 🌐 Connect With Me
+## GITHUB
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zravanilla.github.io-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zravanilla.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-clone.zra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clone.zra)
-[![Email](https://img.shields.io/badge/Email-izra1009@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izra1009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ZraVanilla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZraVanilla)
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=ZraVanilla&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZraVanilla&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888"
+/>
 
 </div>
 
-<br />
+<br>
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ZraVanilla/ZraVanilla/output/snake.svg" alt="Snake animation" />
+<img
+  width="98%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ZraVanilla&bg_color=transparent&color=888888&line=888888&point=ffffff&area=true&hide_border=true"
+/>
 
 </div>
+
+<br>
+
+---
+
+## CONTRIBUTIONS
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79f-e264b5e54825.gif" width="400">
+
+<img
+  src="https://raw.githubusercontent.com/ZraVanilla/ZraVanilla/output/snake.svg"
+  alt="Contribution Snake"
+/>
+
 </div>
+
+<br>
 
 ---
 
 <div align="center">
-  
-  *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+### HAVE AN IDEA?
+
+I'm always interested in creative projects,  
+interesting interfaces and things worth building.
+
+<br>
+
+**[START A PROJECT →](https://zravanilla.xyz/)**
+
+<br><br>
+
+`DESIGN` · `DEVELOPMENT` · `CREATIVE TECHNOLOGY`
+
+<br><br>
+
+<sub>
+© 2026 Izra Rakhi Muhammad
+</sub>
+
+<br><br>
+
+### Thank You.
 
 </div>
