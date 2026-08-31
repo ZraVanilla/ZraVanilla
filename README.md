@@ -1,21 +1,32 @@
 <div align="center">
 
-# IZRA RAKHI MUHAMMAD
+<sub>DESIGNER & DEVELOPER</sub>
 
-### Graphic Designer & Web Developer
+# Izra Rakhi Muhammad
 
-Indonesia · Pekanbaru
+Graphic Designer & Web Developer
 
 <br>
 
 [Portfolio](https://zravanilla.xyz/) ·
-[Instagram](https://instagram.com/zraa.img) ·
 [GitHub](https://github.com/ZraVanilla) ·
+[Instagram](https://instagram.com/zraa.img) ·
 [Email](mailto:izra1009@gmail.com)
+
+<br><br>
+
+```txt
+● ● ●
+
+Izra Rakhi
+Muhammad
+
+Graphic Designer & Web Developer.
+```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ZraVanilla&label=PROFILE+VIEWS&color=111111&style=flat-square" />
+<sub>PEKANBARU, INDONESIA</sub>
 
 </div>
 
@@ -23,43 +34,29 @@ Indonesia · Pekanbaru
 
 ---
 
-## ABOUT
+<br>
 
-```js
-const zra = {
-  name: "Izra Rakhi Muhammad",
-  alias: "ZraVanilla",
-  basedIn: "Pekanbaru, Indonesia",
+<sub>TENTANG</sub>
 
-  focus: [
-    "Web Development",
-    "Graphic Design",
-    "UI/UX Design",
-    "Creative Development"
-  ],
+## Saya Zra.
 
-  currentlyExploring: [
-    "Interactive Web",
-    "Creative Coding",
-    "IoT",
-    "Artificial Intelligence"
-  ]
-};
-```
+Saya adalah seorang **graphic designer** dan **web developer** berbasis di Indonesia.
 
-I design visual experiences and build digital products.
+Saya mengeksplorasi desain visual, antarmuka, website, creative coding,
+dan berbagai bentuk pengalaman digital yang menggabungkan desain dengan teknologi.
 
-My work sits between **design and development** — from brand identities,
-posters and interfaces to responsive websites and interactive experiences.
-
-I enjoy turning ideas into things that are both **visually expressive**
-and **actually usable**.
+Bagi saya, desain yang baik bukan hanya terlihat menarik —
+tetapi juga memiliki fungsi, karakter, dan alasan di balik setiap detailnya.
 
 <br>
 
 ---
 
-## SELECTED WORK
+<br>
+
+<sub>KARYA PILIHAN</sub>
+
+## Selected Projects
 
 <table>
 <tr>
@@ -67,10 +64,10 @@ and **actually usable**.
 
 ### Web Sekolah
 
-Modern school website with a responsive design system,
-CMS integration and structured information architecture.
+Website sekolah dengan desain modern,
+struktur informasi yang rapi dan tampilan responsif.
 
-**Web Development · UI/UX**
+`WEB DEVELOPMENT` `UI/UX`
 
 </td>
 
@@ -78,12 +75,14 @@ CMS integration and structured information architecture.
 
 ### PPLG Class
 
-Digital platform and visual identity for a software
-engineering class community.
+Website dan identitas digital untuk komunitas
+kelas Pengembangan Perangkat Lunak dan Gim.
 
-**Branding · Web Development**
+`WEB DEVELOPMENT` `BRANDING`
 
-<a href="https://pplgclass.github.io/">View Project →</a>
+<br>
+
+[View Project ↗](https://pplgclass.github.io/)
 
 </td>
 </tr>
@@ -93,23 +92,27 @@ engineering class community.
 
 ### Zra Store
 
-Experimental digital storefront exploring interface,
-motion and modern web interactions.
+Eksperimen digital storefront dengan pendekatan
+visual yang lebih ekspresif dan interaktif.
 
-**Creative Development · UI Design**
+`CREATIVE DEVELOPMENT` `UI DESIGN`
 
-<a href="https://zrastore.xyz/">View Project →</a>
+<br>
+
+[View Project ↗](https://zrastore.xyz/)
 
 </td>
 
 <td width="50%" valign="top">
 
-### More Projects
+### More Works
 
-A collection of websites, experiments, design work
-and things I build while learning.
+Kumpulan project web, desain grafis,
+eksperimen visual dan project kreatif lainnya.
 
-<a href="https://zravanilla.xyz/">Explore Portfolio →</a>
+<br>
+
+[Explore Portfolio ↗](https://zravanilla.xyz/)
 
 </td>
 </tr>
@@ -119,43 +122,49 @@ and things I build while learning.
 
 ---
 
-## WHAT I DO
+<br>
+
+<sub>APA YANG SAYA LAKUKAN</sub>
+
+## Layanan & Fokus
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 01
-**Web Development**
+### 01 — Desain Grafis
 
-Responsive websites and web applications with modern technologies.
-
-</td>
-
-<td width="25%" valign="top">
-
-### 02
-**UI / UX Design**
-
-Interfaces focused on clarity, usability and visual personality.
+Poster, branding, visual identity,
+dan berbagai kebutuhan desain digital.
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 03
-**Graphic Design**
+### 02 — Pengembangan Web
 
-Posters, visual identities, typography and digital artwork.
+Website modern, responsif,
+dan berorientasi pada pengalaman pengguna.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 — UI / UX
+
+Perancangan antarmuka dengan fokus pada
+hierarki, usability dan visual direction.
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 04
-**Creative Tech**
+### 04 — Creative Technology
 
-Experiments involving IoT, AI and interactive digital experiences.
+Eksperimen dengan IoT, AI,
+creative coding dan interactive experiences.
 
 </td>
 </tr>
@@ -165,31 +174,27 @@ Experiments involving IoT, AI and interactive digital experiences.
 
 ---
 
-## TOOLS & STACK
+<br>
+
+<sub>PERALATAN & PENGEMBANGAN</sub>
+
+## Apa yang Saya Gunakan
 
 <div align="center">
 
-### Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,nodejs,php,python&theme=dark" />
+`HTML` · `CSS` · `JAVASCRIPT` · `REACT` · `VUE`
 
 <br><br>
 
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,nginx,gcp,git&theme=dark" />
+`TAILWIND` · `NODE.JS` · `PHP` · `PYTHON`
 
 <br><br>
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript&theme=dark" />
+`MYSQL` · `POSTGRESQL` · `FIREBASE` · `DOCKER`
 
 <br><br>
 
-### Design & Creative
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,unity&theme=dark" />
+`FIGMA` · `PHOTOSHOP` · `ILLUSTRATOR` · `UNITY`
 
 </div>
 
@@ -197,19 +202,41 @@ Experiments involving IoT, AI and interactive digital experiences.
 
 ---
 
-## GITHUB
+<br>
+
+<sub>GITHUB ACTIVITY</sub>
+
+## Code & Contributions
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=ZraVanilla&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ZraVanilla&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=777777&icon_color=ffffff"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ZraVanilla&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=777777&icon_color=111111"
+  />
+  <img width="49%" alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=ZraVanilla&show_icons=true&hide_border=true"
+  />
+</picture>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZraVanilla&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZraVanilla&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=777777"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZraVanilla&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=777777"
+  />
+  <img width="49%" alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZraVanilla&layout=compact&hide_border=true"
+  />
+</picture>
 
 </div>
 
@@ -218,8 +245,8 @@ Experiments involving IoT, AI and interactive digital experiences.
 <div align="center">
 
 <img
-  width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ZraVanilla&bg_color=transparent&color=888888&line=888888&point=ffffff&area=true&hide_border=true"
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ZraVanilla&bg_color=00000000&color=777777&line=ffffff&point=888888&area=true&area_color=333333&hide_border=true"
 />
 
 </div>
@@ -228,7 +255,11 @@ Experiments involving IoT, AI and interactive digital experiences.
 
 ---
 
-## CONTRIBUTIONS
+<br>
+
+<sub>CONTRIBUTIONS</sub>
+
+## Keep Building.
 
 <div align="center">
 
@@ -243,26 +274,29 @@ Experiments involving IoT, AI and interactive digital experiences.
 
 ---
 
+<br>
+
 <div align="center">
 
-### HAVE AN IDEA?
+<sub>KONTAK</sub>
 
-I'm always interested in creative projects,  
-interesting interfaces and things worth building.
+## Mulai Proyek.
+
+Punya ide, project, atau sesuatu yang menarik untuk dibuat?
 
 <br>
 
-**[START A PROJECT →](https://zravanilla.xyz/)**
+[**PORTFOLIO ↗**](https://zravanilla.xyz/)
+&nbsp;&nbsp;&nbsp;
+[**EMAIL ↗**](mailto:izra1009@gmail.com)
+
+<br><br><br>
+
+`DESIGN` &nbsp; `DEVELOPMENT` &nbsp; `CREATIVE TECHNOLOGY`
 
 <br><br>
 
-`DESIGN` · `DEVELOPMENT` · `CREATIVE TECHNOLOGY`
-
-<br><br>
-
-<sub>
-© 2026 Izra Rakhi Muhammad
-</sub>
+<sub>© 2026 Izra Rakhi Muhammad</sub>
 
 <br><br>
 
