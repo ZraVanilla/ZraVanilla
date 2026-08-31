@@ -24,11 +24,12 @@
 const zravanilla = {
   name: "Izra Rakhi Muhammad",
   aka: "ZraVanilla 🍦",
-  location: "Indonesia 🇮🇩",
+  location: "Indonesia, Riau, Pekanbaru",
   role: "Frontend Developer",
   education: {
-    university: "Udayana University",
-    major: "Informatics Engineering"
+    SMK: "SMKN 2 Pekanbaru",
+    University: "Politeknik Negeri Padang"
+    major: "Teknik Rekayasa Perangkat Lunak"
   },
   passions: ["Web Dev", "UI/UX", "Open Source"],
   funFact: "I Like Coffee ☕",
